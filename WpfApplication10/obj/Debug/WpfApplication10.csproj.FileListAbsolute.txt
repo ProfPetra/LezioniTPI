@@ -1,0 +1,28 @@
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\bin\Debug\WpfApplication10.exe.config
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\bin\Debug\WpfApplication10.exe
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\bin\Debug\WpfApplication10.pdb
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\WpfApplication10.csprojResolveAssemblyReference.cache
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\MainWindow.g.cs
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\App.g.cs
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\WpfApplication10_MarkupCompile.cache
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\WpfApplication10_MarkupCompile.lref
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\MainWindow.baml
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\WpfApplication10.g.resources
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\WpfApplication10.Properties.Resources.resources
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\WpfApplication10.csproj.GenerateResource.Cache
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\WpfApplication10.exe
+c:\users\prof. petra\documents\visual studio 2015\Projects\WpfApplication10\WpfApplication10\obj\Debug\WpfApplication10.pdb
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\bin\Debug\WpfApplication10.exe.config
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\WpfApplication10.exe
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\WpfApplication10.pdb
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\bin\Debug\WpfApplication10.exe
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\bin\Debug\WpfApplication10.pdb
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\WpfApplication10.csprojResolveAssemblyReference.cache
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\MainWindow.g.cs
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\App.g.cs
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\WpfApplication10_MarkupCompile.cache
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\WpfApplication10_MarkupCompile.lref
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\MainWindow.baml
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\WpfApplication10.g.resources
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\WpfApplication10.Properties.Resources.resources
+C:\Users\Prof. Petra\Desktop\Prato Fiorito\WpfApplication10\obj\Debug\WpfApplication10.csproj.GenerateResource.Cache

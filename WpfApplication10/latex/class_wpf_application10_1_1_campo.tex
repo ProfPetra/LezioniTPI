@@ -1,0 +1,69 @@
+\hypertarget{class_wpf_application10_1_1_campo}{}\section{Wpf\+Application10.\+Campo Class Reference}
+\label{class_wpf_application10_1_1_campo}\index{Wpf\+Application10.\+Campo@{Wpf\+Application10.\+Campo}}
+
+
+Aggregato di Celle simula il campo di gioco.  
+
+
+Inheritance diagram for Wpf\+Application10.\+Campo\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=2.000000cm]{class_wpf_application10_1_1_campo}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_wpf_application10_1_1_campo_aef7860620b7283130d210748331a0a80}\label{class_wpf_application10_1_1_campo_aef7860620b7283130d210748331a0a80}} 
+\hyperlink{class_wpf_application10_1_1_campo_aef7860620b7283130d210748331a0a80}{Campo} (int grandezza)
+\begin{DoxyCompactList}\small\item\em Prende in ingresso la grandezza della matrice. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_wpf_application10_1_1_campo_a626ff5f098dc2c30a4907664671c74ae}\label{class_wpf_application10_1_1_campo_a626ff5f098dc2c30a4907664671c74ae}} 
+void {\bfseries refresh} ()
+\item 
+\mbox{\Hypertarget{class_wpf_application10_1_1_campo_ac5b29a3446d94cd6fd70229f126a63be}\label{class_wpf_application10_1_1_campo_ac5b29a3446d94cd6fd70229f126a63be}} 
+void {\bfseries genera\+Bomba} (int n\+Bombe, Random rnd)
+\item 
+void \hyperlink{class_wpf_application10_1_1_campo_ab70e4d4a95b9d7660c361c8ab2b103fc}{calcola\+Valore} ()
+\begin{DoxyCompactList}\small\item\em Una volta assegnata le bombe calcola i valori delle caselle cirdostanti. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_wpf_application10_1_1_campo_a1665e095674df35485694fd7aafd0475}\label{class_wpf_application10_1_1_campo_a1665e095674df35485694fd7aafd0475}} 
+void {\bfseries controllo} (int x\+\_\+, int y\+\_\+)
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_wpf_application10_1_1_campo_a01b0b1aa98788bb40190d216cd91e89f}\label{class_wpf_application10_1_1_campo_a01b0b1aa98788bb40190d216cd91e89f}} 
+\hyperlink{class_wpf_application10_1_1_cella}{Cella} \mbox{[},\mbox{]} \hyperlink{class_wpf_application10_1_1_campo_a01b0b1aa98788bb40190d216cd91e89f}{matrice}
+\begin{DoxyCompactList}\small\item\em Matrice di celle. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{class_wpf_application10_1_1_campo_a2b85b75097ce72b3d29aacca2cb3a1f6}\label{class_wpf_application10_1_1_campo_a2b85b75097ce72b3d29aacca2cb3a1f6}} 
+int {\bfseries gran}
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Aggregato di Celle simula il campo di gioco. 
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_wpf_application10_1_1_campo_ab70e4d4a95b9d7660c361c8ab2b103fc}\label{class_wpf_application10_1_1_campo_ab70e4d4a95b9d7660c361c8ab2b103fc}} 
+\index{Wpf\+Application10\+::\+Campo@{Wpf\+Application10\+::\+Campo}!calcola\+Valore@{calcola\+Valore}}
+\index{calcola\+Valore@{calcola\+Valore}!Wpf\+Application10\+::\+Campo@{Wpf\+Application10\+::\+Campo}}
+\subsubsection{\texorpdfstring{calcola\+Valore()}{calcolaValore()}}
+{\footnotesize\ttfamily Wpf\+Application10.\+Campo.\+calcola\+Valore (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Una volta assegnata le bombe calcola i valori delle caselle cirdostanti. 
+
+\begin{DoxyNote}{Note}
+Ciclo su tutte le caselle
+
+verifico che la casella non sia una bomba
+
+controllo le caselle adiacenti
+
+controllo l\textquotesingle{}indice della matrice 
+\end{DoxyNote}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Campo.\+cs\end{DoxyCompactItemize}
