@@ -1,0 +1,31 @@
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\bin\Debug\Scacchi.exe.config
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\bin\Debug\Scacchi.exe
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\bin\Debug\Scacchi.pdb
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\Scacchi.csprojResolveAssemblyReference.cache
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\MainWindow.g.cs
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\App.g.cs
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\Scacchi_MarkupCompile.cache
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\Scacchi_MarkupCompile.lref
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\MainWindow.baml
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\Scacchi.g.resources
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\Scacchi.Properties.Resources.resources
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\Scacchi.csproj.GenerateResource.Cache
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\Scacchi.exe
+c:\users\prof. petra\documents\visual studio 2015\Projects\Scacchi\Scacchi\obj\Debug\Scacchi.pdb
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\bin\Debug\Scacchi.exe.config
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.exe
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.pdb
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.csprojResolveAssemblyReference.cache
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\MainWindow.g.cs
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\App.g.cs
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi_MarkupCompile.cache
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi_MarkupCompile.lref
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\bin\Debug\Scacchi.exe
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\bin\Debug\Scacchi.pdb
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\MainWindow.baml
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.g.resources
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.Properties.Resources.resources
+C:\Users\Prof. Petra\Desktop\Scacchi\Scacchi\obj\Debug\Scacchi.csproj.GenerateResource.Cache
+C:\Users\Prof. Petra\Documents\GitHub\Scacchi\Scacchi\bin\Debug\Scacchi.exe.config
+C:\Users\Prof. Petra\Documents\GitHub\Scacchi\Scacchi\obj\Debug\Scacchi.exe
+C:\Users\Prof. Petra\Documents\GitHub\Scacchi\Scacchi\obj\Debug\Scacchi.pdb
